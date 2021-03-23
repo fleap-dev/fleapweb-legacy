@@ -16,6 +16,7 @@ Build instructions:
 ```sh
 git clone https://github.com/hfleap/fleapweb.git
 cd fleapweb
+chmod +x fleap-ssg
 make
 ```
 
